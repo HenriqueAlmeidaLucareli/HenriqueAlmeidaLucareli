@@ -1,9 +1,14 @@
 ### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico⚠️-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow)
-![HTML5](https://img.shields.io/badge/HTML5-Básico⚠️-E34F26?style=for-the-badge&logo=html5&logoColor=orange)
 
----
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html&perline=6" />
+
+![Python](https://img.shields.io/badge/Avançado-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Básico⚠️-F7DF1E?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/Básico⚠️-E34F26?style=for-the-badge)
+
+</div>
 
 ### 🧠 IA & Data Science
 
@@ -46,14 +51,13 @@
 ---
 
 ### 🤖 Automação & Dev
-![RPA](https://img.shields.io/badge/RPA-Automation-FF9800?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Básico⚠️-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico⚠️-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RPA](https://img.shields.io/badge/RPA-Automation-FF9800?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-Básico⚠️-yellow?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ### ☁️ Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,aws&perline=6" />
 
 ---
 
