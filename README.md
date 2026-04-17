@@ -7,19 +7,23 @@
 
 ### 🧠 IA & Data Science
 
-<p align="center">
-  <img src="./assets/ai-banner.png" width="500"/>
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+#### 🔬 Algoritmos e Modelos
 ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-8BC34A?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
 ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-9C27B0?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-3F51B5?style=for-the-badge)
-![KMeans](https://img.shields.io/badge/KMeans-009688?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means-009688?style=for-the-badge)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-795548?style=for-the-badge)
+
+#### 📊 Tipos de Aprendizado
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-4CAF50?style=for-the-badge)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-607D8B?style=for-the-badge)
-![Chatbots](https://img.shields.io/badge/Chatbots-00BCD4?style=for-the-badge)
+
+#### 🤖 Aplicações
+![Chatbots](https://img.shields.io/badge/Chatbots-00BCD4?style=for-the-badge&logo=chatbot&logoColor=white)
 
 ---
 
@@ -53,12 +57,26 @@
 
 ---
 
-### 🐍 GitHub Snake
-![Snake animation](https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake-dark.svg)
+### 📉 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueAlmeidaLucareli&theme=react-dark)
+
+---
+## GitHub Stats
+
+<p align="center">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueAlmeidaLucareli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueAlmeidaLucareli&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
 ---
 
 ### 📊 Minhas Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAlmeidaLucareli&theme=tokyonight" />
 </div>
