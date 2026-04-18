@@ -1,3 +1,13 @@
+### 👨‍💻 Sobre mim
+
+<h1 align="center">Henrique Almeida Lucareli</h1>
+
+<p align="center">
+Sou Henrique Almeida Lucareli, entusiasta de tecnologia com foco em dados e programação. Tenho experiência com Python, Machine Learning e bancos de dados, além de atuar com ferramentas de BI e automação. Busco constantemente evoluir, explorando novas tecnologias e aplicando meus conhecimentos em projetos práticos, principalmente nas áreas de Data Science e desenvolvimento.
+</p>
+
+<br></br>
+
 ### 💻 Linguagens
 
 <div align="center">
